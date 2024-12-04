@@ -1,0 +1,5 @@
+com\example\communicationapp\model\MessageTest.class
+com\example\communicationapp\communication\CommunicationChannelTest.class
+com\example\communicationapp\service\MessageServiceTest.class
+com\example\communicationapp\CommunicationAppTest.class
+com\example\communicationapp\model\PlayerTest.class

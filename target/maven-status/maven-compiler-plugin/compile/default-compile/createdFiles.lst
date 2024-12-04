@@ -1,0 +1,8 @@
+com\example\communicationapp\model\Player.class
+com\example\communicationapp\CommunicationApp.class
+com\example\communicationapp\model\IPlayer.class
+com\example\communicationapp\exception\CommunicationException.class
+com\example\communicationapp\communication\Mediator.class
+com\example\communicationapp\service\MessageService.class
+com\example\communicationapp\communication\CommunicationChannel.class
+com\example\communicationapp\model\Message.class
